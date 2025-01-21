@@ -955,10 +955,7 @@ form.row.g-4.text-light.mx-auto.mt-4 {
         height: 32px;
     }
 
-    div#navbarSupportedContent {
-        display: flex;
-        flex-direction: column;
-    }
+
 
     #banner {
         min-height: 50vh;
